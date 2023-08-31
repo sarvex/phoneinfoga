@@ -237,6 +237,8 @@ github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e h1:fD57ERR4JtEqsWb
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
 github.com/nyaruka/phonenumbers v1.1.0 h1:OvNAOAl4A9a2kNpzziITbUVH4bBBeKHkHl0llPmkxaA=
 github.com/nyaruka/phonenumbers v1.1.0/go.mod h1:cGaEsOrLjIL0iKGqJR5Rfywy86dSkbApEpXuM9KySNA=
+github.com/nyaruka/phonenumbers v1.1.8 h1:mjFu85FeoH2Wy18aOMUvxqi1GgAqiQSJsa/cCC5yu2s=
+github.com/nyaruka/phonenumbers v1.1.8/go.mod h1:DC7jZd321FqUe+qWSNcHi10tyIyGNXGcNbfkPvdp1Vs=
 github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
 github.com/onlinecity/go-phone-iso3166 v0.0.1 h1:srN6o8NjxBWIrlK6Z+zD9wGMSGYi4itWA/fRyaxetqs=
 github.com/onlinecity/go-phone-iso3166 v0.0.1/go.mod h1:n8+yIOCu9O63MH3WVwlWq1YVF6ZuAG5xlZ4mZ5ZzKF8=
