@@ -12,7 +12,7 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.8.4
 	github.com/sundowndev/dorkgen v1.3.1
-	github.com/swaggo/swag v1.16.1
+	github.com/swaggo/swag v1.16.3
 	google.golang.org/api v0.103.0
 	gopkg.in/h2non/gock.v1 v1.0.16
 )
