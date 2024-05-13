@@ -8,7 +8,7 @@ require (
 	github.com/joho/godotenv v1.4.0
 	github.com/nyaruka/phonenumbers v1.1.8
 	github.com/onlinecity/go-phone-iso3166 v0.0.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.8.4
 	github.com/sundowndev/dorkgen v1.3.1
