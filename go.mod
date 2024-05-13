@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/fatih/color v1.13.0
 	github.com/gin-gonic/gin v1.9.1
-	github.com/joho/godotenv v1.4.0
+	github.com/joho/godotenv v1.5.1
 	github.com/nyaruka/phonenumbers v1.1.8
 	github.com/onlinecity/go-phone-iso3166 v0.0.1
 	github.com/sirupsen/logrus v1.8.1
